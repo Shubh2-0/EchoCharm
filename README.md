@@ -37,10 +37,12 @@ python echotext.py
 
     🤖 To exit the application, simply type **x** .
 
-## Demo 🎥
 
-Discover EchoCharm in action through our engaging demo! Experience how EchoCharm's intuitive interface empowers users to convert text into spoken words using various available voices. Witness the seamless process of selecting voices, inputting text, and hearing it come to life. Join us on a journey of auditory exploration with EchoCharm.
+## Demo Video 🎥
 
+Discover EchoCharm in action through our engaging demo video! Experience how EchoCharm's intuitive interface empowers users to convert text into spoken words using various available voices. Witness the seamless process of selecting voices, inputting text, and hearing it come to life. Join us on a journey of auditory exploration with EchoCharm.
+
+[Watch EchoCharm Demo Video](link_to_demo_video)
 
 
 ## Contributions and Feedback 🤝
