@@ -44,6 +44,27 @@ Discover EchoCharm in action through our engaging demo video! Experience how Ech
 
 [Watch EchoCharm Demo Video](link_to_demo_video)
 
+## Tools Used 🛠️
+
+<table align="center">
+  <tr>
+    <td align="center" width="170">
+      <img src="images/python.png" width="48" height="48" alt="Python" />
+      <br>Python 
+    </td>
+    <td align="center" width="170">
+      <img src="images/PyCharm.png" width="45" height="45" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+    <td align="center" width="170">
+      <img src="images/github.png" width="45" height="45" alt="Github" />
+      <br>Github
+    </td>
+  </tr>
+ 
+</table>
+
+
 
 ## Contributions and Feedback 🤝
 Contributions are encouraged! If you encounter issues, have innovative ideas, or wish to introduce new features, here's how you can contribute:
