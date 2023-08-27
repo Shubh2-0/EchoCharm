@@ -31,11 +31,11 @@ python echotext.py
 
 4. **Select a Voice and Speak:** Embark on your text-to-speech journey within the application:
 
-Browse the list of available voices and select one by entering the corresponding number.
+    🤖 Browse the list of available voices and select one by entering the corresponding number.
 
-Enter the text you wish to hear spoken aloud.
+    🤖 Enter the text you wish to hear spoken aloud.
 
-To exit the application, simply type "x."
+    🤖 To exit the application, simply type **x** .
 
 ## Demo 🎥
 
