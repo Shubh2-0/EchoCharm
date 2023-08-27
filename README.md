@@ -26,7 +26,7 @@ pip install pyttsx3
 3. **Run the Application:** Launch the application by executing the echotext.py script:
 
 ```
-python echotext.py
+python main.py
 ```
 
 4. **Select a Voice and Speak:** Embark on your text-to-speech journey within the application:
