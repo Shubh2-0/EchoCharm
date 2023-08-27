@@ -47,9 +47,13 @@ Discover EchoCharm in action through our engaging demo! Experience how EchoCharm
 Contributions are encouraged! If you encounter issues, have innovative ideas, or wish to introduce new features, here's how you can contribute:
 
 🐍  **Fork the Repository:** Begin by forking the repository to your GitHub account.
-🐍  **Create a Feature Branch:** Create a branch to work on your feature: git checkout -b feature/YourFeatureName.
-🐍  **Commit Your Changes:** Commit your changes with a descriptive commit message: git commit -m 'Adding a remarkable feature'.
-🐍  **Push Your Branch:** Push your feature branch to your repository: git push origin feature/YourFeatureName.
+
+🐍  **Create a Feature Branch:** Create a branch to work on your feature: ```git checkout -b feature/YourFeatureName.```
+
+🐍  **Commit Your Changes:** Commit your changes with a descriptive commit message: ```git commit -m 'Adding a remarkable feature'.```
+
+🐍  **Push Your Branch:** Push your feature branch to your repository: ```git push origin feature/YourFeatureName.```
+
 🐍  **Open a Pull Request:** Submit a pull request to merge your changes into the main repository.
 
 ## Acknowledgments and Credits 🙏
