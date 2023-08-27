@@ -1,8 +1,8 @@
-markdown
-Copy code
-# EchoCharm 🗣️
 
+# EchoCharm 🗣️
 Welcome to EchoCharm, a versatile text-to-speech application developed in Python using the `pyttsx3` library. EchoCharm lets you transform your textual input into spoken words using a variety of voices. Whether you're looking to hear your written content come alive, explore different voices, or experiment with speech synthesis, EchoCharm offers an engaging way to do so.
+
+![Gameplay Demo](images/poster.png) 
 
 ## Features and Highlights ✨
 
@@ -15,39 +15,47 @@ Welcome to EchoCharm, a versatile text-to-speech application developed in Python
 ## Getting Started 🚀
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine:
-
-   ```sh
-   git clone https://github.com/yourusername/echocharm.git
-Install Dependencies: Ensure you have the necessary library installed:
-
-sh
-Copy code
+```
+git clone https://github.com/Shubh2-0/echocharm.git
+```
+2. **Install Dependencies:** Ensure you have the necessary library installed:
+```
 pip install pyttsx3
-Run the Application: Launch the application by executing the echotext.py script:
+```
 
-sh
-Copy code
+3. **Run the Application:** Launch the application by executing the echotext.py script:
+
+```
 python echotext.py
-Select a Voice and Speak: Embark on your text-to-speech journey within the application:
+```
+
+4. **Select a Voice and Speak:** Embark on your text-to-speech journey within the application:
 
 Browse the list of available voices and select one by entering the corresponding number.
-Enter the text you wish to hear spoken aloud.
-To exit the application, simply type "x."
-Screenshots and Demos 📸🎥
-Insert captivating screenshots of the application and provide links to demo videos showcasing its functionality.
 
-Contributions and Feedback 🤝
+Enter the text you wish to hear spoken aloud.
+
+To exit the application, simply type "x."
+
+## Demo 🎥
+
+Discover EchoCharm in action through our engaging demo! Experience how EchoCharm's intuitive interface empowers users to convert text into spoken words using various available voices. Witness the seamless process of selecting voices, inputting text, and hearing it come to life. Join us on a journey of auditory exploration with EchoCharm.
+
+
+
+## Contributions and Feedback 🤝
 Contributions are encouraged! If you encounter issues, have innovative ideas, or wish to introduce new features, here's how you can contribute:
 
-Fork the Repository: Begin by forking the repository to your GitHub account.
-Create a Feature Branch: Create a branch to work on your feature: git checkout -b feature/YourFeatureName.
-Commit Your Changes: Commit your changes with a descriptive commit message: git commit -m 'Adding a remarkable feature'.
-Push Your Branch: Push your feature branch to your repository: git push origin feature/YourFeatureName.
-Open a Pull Request: Submit a pull request to merge your changes into the main repository.
-License 📝
-This project is licensed under the MIT License.
+🐍  **Fork the Repository:** Begin by forking the repository to your GitHub account.
+🐍  **Create a Feature Branch:** Create a branch to work on your feature: git checkout -b feature/YourFeatureName.
+🐍  **Commit Your Changes:** Commit your changes with a descriptive commit message: git commit -m 'Adding a remarkable feature'.
+🐍  **Push Your Branch:** Push your feature branch to your repository: git push origin feature/YourFeatureName.
+🐍  **Open a Pull Request:** Submit a pull request to merge your changes into the main repository.
 
-Acknowledgments and Credits 🙏
-EchoCharm leverages the powerful pyttsx3 library for its text-to-speech capabilities.
+## Acknowledgments and Credits 🙏
+
+EchoCharm leverages the powerful **pyttsx3** library for its text-to-speech capabilities.
 We extend our gratitude to the open-source community for its contributions and support.
+
+
 🔊 Elevate your text with EchoCharm's auditory magic! We hope you enjoy the journey of turning words into sound.
