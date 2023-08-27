@@ -42,7 +42,7 @@ python echotext.py
 
 Discover EchoCharm in action through our engaging demo video! Experience how EchoCharm's intuitive interface empowers users to convert text into spoken words using various available voices. Witness the seamless process of selecting voices, inputting text, and hearing it come to life. Join us on a journey of auditory exploration with EchoCharm.
 
-[Watch EchoCharm Demo Video](link_to_demo_video)
+[Watch EchoCharm Demo Video](https://drive.google.com/file/d/1iTy1Wtnaku85R8Bp19ygnWlK6Z6NWLf6/view?usp=sharing)
 
 ## Tools Used 🛠️
 
