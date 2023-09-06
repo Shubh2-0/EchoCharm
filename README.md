@@ -3,7 +3,7 @@
 Welcome to EchoCharm, a versatile text-to-speech application developed in Python using the `pyttsx3` library. EchoCharm lets you transform your textual input into spoken words using a variety of voices. Whether you're looking to hear your written content come alive, explore different voices, or experiment with speech synthesis, EchoCharm offers an engaging way to do so.
 
 ![Gameplay Demo](images/poster.png) 
-
+ 
 ## Features and Highlights ✨
 
 - 🎙️ **Voice Selection:** Choose from a diverse collection of available voices, each with its own distinct qualities and accents.
