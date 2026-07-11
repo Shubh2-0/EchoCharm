@@ -102,26 +102,7 @@ If you want to contact me, you can reach me through below handles.
   <strong>🔊 Elevate your text with EchoCharm's auditory magic! We hope you enjoy the journey of turning words into sound.</strong>
 </div>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 👤 Author
+*   **Shubham Bhati** (Java Backend Engineer) - [LinkedIn](https://www.linkedin.com/in/bhatishubham) | [Portfolio](https://shubhambhati.is-a.dev)
